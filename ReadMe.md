@@ -1,3 +1,7 @@
 # Graphics Recipes from the book
 
-## Commented for Vulkan Renderer implementation
+## Commented recipes from the book "3D Graphics Rendering Cookbook"
+
+Serves as a personal reference when revisiting code example
+
+
